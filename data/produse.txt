@@ -1,0 +1,8 @@
+Apa;2
+Ceai;3
+Cola;4
+Lapte;4
+Paine prajita;2
+Unt;4
+Cereale;3
+Biscuiti;5
